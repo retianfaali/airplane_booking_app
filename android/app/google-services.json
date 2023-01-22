@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306319950109",
+    "project_id": "airplane-c36dc",
+    "storage_bucket": "airplane-c36dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306319950109:android:18010c74162e8179c3e1f4",
+        "android_client_info": {
+          "package_name": "com.retian.airplane_booking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306319950109-b09pthta0i1db71iast4icdm9inve8ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcBbU4k1C2IAGTtLm_KVOjWeUpSj-_qVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306319950109-b09pthta0i1db71iast4icdm9inve8ov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
